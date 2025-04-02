@@ -2,6 +2,9 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnh3MGJzMmJvbHJvZDRmcmMzaHBhM3I3MTFteWRoNGYzejVnbmllcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/3SL41WtN5l9DNdPJGs/giphy.gif" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skeiigi" />
+</div>
 
 <!--
 **skeiigi/skeiigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
