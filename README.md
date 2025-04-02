@@ -1,5 +1,10 @@
 ## Hi there 👋🏿
 
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXIzN2E1ODZrM2ttanAzczk1Mm01a3pzMmQxNmhiZXpkNmxwOGQ4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wfJ9skCqDTyN5rxSg6/giphy.gif"/>
+</div>
+
+
 <!--
 **skeiigi/skeiigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
